@@ -4,6 +4,7 @@
 4月3号-5月5号
 1.了解Umi-OCR项目，查看底层代码，熟悉其实现流程
 [项目链接](https://github.com/hiroi-sora/Umi-OCR)
+
 2.实现该项目对文件夹的递归读取//win_main.py第976行
 ```
 isRecursiveSearch = Config.get("isRecursiveSearch")
